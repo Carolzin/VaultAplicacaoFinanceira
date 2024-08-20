@@ -4,5 +4,5 @@ Bem-vindo ao repositório **VALUT - Aplicação Financeira**, um projeto em dese
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/Hq2EtnCkz3rGExbZVClqpC/Vault?node-id=0-1&t=U7Fi942RpqcB0h4u-1)
 
-![Captura de tela 2024-08-20 002053](https://github.com/user-attachments/assets/2bced3ec-46b5-41ce-a3b8-c4f3c6aafeca)
+![image](https://github.com/user-attachments/assets/207c849e-ad24-4d3e-9761-ba54af533a9a)
 
